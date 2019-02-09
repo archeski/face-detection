@@ -3,3 +3,6 @@
 
 - [x] Static camera solution
 - [ ] Dynamic camera solution
+
+
+### Requirements 
